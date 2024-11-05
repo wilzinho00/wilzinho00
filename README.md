@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wilzinho00
-- 👀 I’m interested in ... Learn programming and share knowledge.
+- 👀 I’m interested in ... Programming and share knowledge.
 - 🌱 I’m currently learning ... HTML, CSS, JavaScript e Python.
 - 💞️ I’m looking to collaborate on ... In everything necessary for my professional development.
 - 📫 How to reach me ... Right here, you came to me, and you are always welcome.
