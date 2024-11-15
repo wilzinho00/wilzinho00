@@ -1,4 +1,4 @@
--  Hi, I’m @wilzinho00
+-  Wilciano Nascimento (wilzinho00).
 -  I’m interested in ... Programming and share knowledge.
 -  I’m currently learning ... HTML, CSS, JavaScript e Python.
 -  I’m looking to collaborate on ... In everything necessary for my professional development.
